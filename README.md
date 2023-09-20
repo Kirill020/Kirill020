@@ -1,7 +1,7 @@
-### About
+### About me:
 
-#### Hi 👋, I'm Kirill, a software engineer from Ukraine, Odessa city. Currently living in Cologne, Germany. 
-##### 🎓Student of the Fach College of Industrial Automation and Information Technologies of the Odessa National University of Technology
+#### Hi 👋, I'm Kirill, a software engineer from Ukraine, Odessa city. Currently living in Cologne, Germany.
+###### 🎓Student of the Fach College of Industrial Automation and Information Technologies of the Odessa National University of Technology
 <br>
 
 ### Skils
